@@ -1,0 +1,4 @@
+.venv/
+.vscode/
+problemapifix/problemapifix/__pycache__
+problemapifix/app/__pycache__
